@@ -1,9 +1,51 @@
-# Ideation Phase
+# 01 – Ideation Phase
 
-## Contents to add here
-- [ ] **Problem Statement** — `Problem_Statement.md` or `.docx`: a clear statement of the problem this project addresses (e.g. predicting/analyzing heart disease risk from patient data).
-- [ ] **Empathy Map** — `Empathy_Map.png` or `.pdf`: who the end user/stakeholder is, what they think/feel/say/do.
-- [ ] **Brain Storming** — `Brainstorming.md` or board export: raw ideas, possible approaches, features considered.
+## Overview
 
-## Notes
-Add your files to this folder and update this checklist as you complete each item.
+The Ideation Phase is the initial stage of the Heart Disease Analysis project. In this phase, the project objective is identified, user needs are understood, and possible solutions are explored before development begins.
+
+---
+
+## Contents
+
+### 📄 Problem Statement
+Defines the healthcare problem addressed by this project. It explains the importance of analyzing heart disease data to identify risk factors and generate meaningful insights using data analytics.
+
+**File:** `Problem_Statement.pdf`
+
+---
+
+### 📄 Empathy Map
+Represents the perspective of healthcare stakeholders and users by understanding their needs, challenges, expectations, and decision-making process.
+
+**File:** `Empathy_Map.pdf`
+
+---
+
+### 📄 Brainstorming
+Documents the brainstorming session conducted to generate ideas, identify project features, select suitable technologies, and finalize the project approach.
+
+**File:** `Brainstorming.pdf`
+
+---
+
+## Objective of this Phase
+
+- Understand the project problem.
+- Identify user requirements.
+- Explore possible analytical solutions.
+- Finalize the project concept before design and development.
+
+---
+
+## Deliverables
+
+- ✅ Problem Statement
+- ✅ Empathy Map
+- ✅ Brainstorming Document
+
+---
+
+**Project:** Heart Disease Analysis  
+**Domain:** Data Analytics & Healthcare  
+**Tools:** SQL, Tableau, Flask, GitHub
