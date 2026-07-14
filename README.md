@@ -10,7 +10,7 @@
 &nbsp; | &nbsp;
 [📊 Tableau Public](https://public.tableau.com/views/heartdiseaseanalysisfinal/HeartDiseaseDashboard)
 &nbsp; | &nbsp;
-[💻 GitHub Repository](https://github.com/nandinipadidham-lgtm/Heart-Disease-Analysis)
+[💻 GitHub Repository](https://github.com/nandinipadidham-lgtm/Heart-Disease-Analysis/tree/main/heart-disease-analysis)
 &nbsp; | &nbsp;
 [💼 LinkedIn](https://www.linkedin.com/in/naga-nandini-padidham/)
 
