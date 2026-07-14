@@ -1,135 +1,82 @@
 # ❤️ Heart Disease Analysis
 
-## 📌 Project Overview
-
-Heart Disease Analysis is a healthcare data analytics project developed to analyze patient information and identify important patterns related to heart disease.
-
-The project uses SQL for data analysis and Tableau for interactive visualization. The dashboard helps users understand demographic, medical, and lifestyle factors that contribute to heart disease through clear and interactive charts.
+An end-to-end data analytics project focused on analyzing heart disease data to identify key health risk factors using **SQL**, **Tableau**, and interactive dashboards.
 
 ---
 
-# 🎯 Project Objectives
+## 🌐 Live Dashboard
 
-- Analyze healthcare data to identify heart disease risk factors.
-- Perform data cleaning and preprocessing.
-- Answer business questions using SQL.
-- Build an interactive Tableau dashboard.
-- Present insights using visual analytics.
-- Organize the complete project following a structured project lifecycle.
+🔗 **GitHub Pages:**  
+https://nandinipadidham-lgtm.github.io/Heart-Disease-Analysis/heart-disease-analysis/05_Project_Development_Phase/
 
 ---
 
-# 🛠 Technologies Used
+## 📂 GitHub Repository
 
-| Technology | Purpose |
-|------------|---------|
-| SQL | Data Analysis |
-| Tableau Public | Dashboard Development |
-| HTML | Dashboard Export |
-| GitHub | Project Documentation |
-| CSV Dataset | Source Data |
+🔗 https://github.com/nandinipadidham-lgtm/Heart-Disease-Analysis
 
 ---
 
-# 📂 Repository Structure
+# 📖 Project Overview
+
+This project aims to analyze heart disease data and provide meaningful insights through data preprocessing, SQL analysis, and Tableau visualizations. The project follows a structured development lifecycle from ideation to final documentation.
+
+---
+
+# 📁 Repository Structure
 
 | Folder | Description |
-|--------|-------------|
-| 📁 01_Ideation_Phase | Problem statement, empathy map and brainstorming documents. |
-| 📁 02_Requirement_Analysis | Customer journey map, solution requirements, technology stack and data flow diagram. |
-| 📁 03_Project_Design_Phase | Proposed solution, solution architecture and problem-solution fit documentation. |
-| 📁 04_Project_Planning_Phase | Project planning template and implementation schedule. |
-| 📁 05_Project_Development_Phase | Dataset, SQL scripts, Tableau workbook, exported dashboard and project files. |
-| 📁 06_Performance_Testing | Preprocessing documentation, business questions, dashboard story, screenshots and validation documents. |
-| 📁 07_Doc_and_Demo | Final project documentation and demonstration materials. |
+|---------|-------------|
+| 📁 01_Ideation_Phase | Problem statement, empathy map, brainstorming |
+| 📁 02_Requirement_Analysis | Customer journey map, solution requirements, data flow diagram, technology stack |
+| 📁 03_Project_Design_Phase | Proposed solution, solution architecture, problem-solution fit |
+| 📁 04_Project_Planning_Phase | Project planning template and execution plan |
+| 📁 05_Project_Development_Phase | Dataset, SQL scripts, Tableau workbook, dashboard, visualizations |
+| 📁 06_Performance_Testing | Dashboard screenshots, preprocessing, business questions, testing documents |
+| 📁 07_Doc_and_Demo | Final documentation and project demonstration |
 
 ---
 
-# 📊 Dashboard Features
+# 🛠️ Technologies Used
 
-The interactive dashboard provides insights such as:
-
-- Patient Demographics
-- Heart Disease Distribution
-- Age-wise Analysis
-- Gender-wise Analysis
-- Chest Pain Analysis
-- Cholesterol Analysis
-- Blood Pressure Analysis
-- Heart Rate Analysis
-- Medical Risk Factors
-- Interactive Dashboard Filters
+- SQL
+- Tableau
+- GitHub
+- GitHub Pages
 
 ---
 
-# 📈 Project Workflow
+# 📊 Project Outputs
 
-```
-Problem Identification
-        │
-        ▼
-Requirement Analysis
-        │
-        ▼
-Project Design
-        │
-        ▼
-Project Planning
-        │
-        ▼
-Project Development
-        │
-        ▼
-Performance Testing
-        │
-        ▼
-Documentation & Demo
-```
-
----
-
-# 📁 Project Outputs
-
-- SQL Analysis Scripts
-- Clean Healthcare Dataset
-- Tableau Dashboard
-- Interactive HTML Dashboard
-- Project Documentation
+- SQL Analysis
+- Interactive Tableau Dashboard
 - Dashboard Story
-- Final Report
+- Business Insights
+- Performance Testing Documents
+- Final Project Documentation
 
 ---
 
-# 🔗 Tableau Dashboard
+# 🚀 Live Project
 
-**Tableau Public Dashboard**
+Click below to explore the dashboard:
 
-https://public.tableau.com/views/heartdiseaseanalysisfinal/HeartDiseaseDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+👉 **https://nandinipadidham-lgtm.github.io/Heart-Disease-Analysis/heart-disease-analysis/05_Project_Development_Phase/**
 
----
+📊 **Tableau Public**
 
-# 📌 Dataset
+👉  **https://public.tableau.com/views/heartdiseaseanalysisfinal/HeartDiseaseDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link/**
 
-The project uses a healthcare dataset containing patient demographic and medical information, including:
-
-- Age
-- Gender
-- Chest Pain Type
-- Blood Pressure
-- Cholesterol
-- Fasting Blood Sugar
-- ECG Results
-- Maximum Heart Rate
-- Exercise-Induced Angina
-- ST Depression
-- Heart Disease Status
 
 ---
 
-# 👩‍💻 Developed By
+## 👩‍💻 Author
 
 **Nandini Padidham**
 
-B.Tech – Electronics and Communication Engineering
+- GitHub: https://github.com/nandinipadidham-lgtm
+- LinkedIn: https://www.linkedin.com/in/naga-nandini-padidham/
 
-Heart Disease Analysis Project
+---
+
+⭐ If you found this project useful, consider giving it a star!
